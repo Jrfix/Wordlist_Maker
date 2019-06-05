@@ -53,7 +53,7 @@ def hane1():
 
 def hane2():
 	print("hane2")
-	l_e = chars[-1] #son elemanı alır
+	l_e = chars[-1] 
 	g_e = l_e+l_e
 	for oku in chars:
 		harf1=oku
@@ -69,7 +69,7 @@ def hane2():
 
 def hane3():
 	
-	l_e = chars[-1] #son elemanı alır
+	l_e = chars[-1] 
 	g_e = l_e+l_e+l_e
 	for oku in chars:
 		harf1=oku
@@ -88,7 +88,7 @@ def hane3():
 
 def hane4():
 	
-	l_e = chars[-1] #son elemanı alır
+	l_e = chars[-1] 
 	g_e = l_e+l_e+l_e+l_e
 	for oku in chars:
 		harf1=oku
@@ -109,7 +109,7 @@ def hane4():
 
 def hane5():
 	
-	l_e = chars[-1] #son elemanı alır
+	l_e = chars[-1] 
 	g_e = l_e+l_e+l_e+l_e+l_e
 	for oku in chars:
 		harf1=oku
@@ -130,7 +130,7 @@ def hane5():
 						
 def hane6():
 	
-	l_e = chars[-1] #son elemanı alır
+	l_e = chars[-1] 
 	g_e = l_e+l_e+l_e+l_e+l_e+l_e
 	for oku in chars:
 		harf1=oku
@@ -154,7 +154,7 @@ def hane6():
 
 def hane7():
 	
-	l_e = chars[-1] #son elemanı alır
+	l_e = chars[-1] 
 	g_e = l_e+l_e+l_e+l_e+l_e+l_e+l_e
 	for oku in chars:
 		harf1=oku
@@ -178,7 +178,7 @@ def hane7():
 									hane8()
 def hane8():
 	
-	l_e = chars[-1] #son elemanı alır
+	l_e = chars[-1] 
 	g_e = l_e+l_e+l_e+l_e+l_e+l_e+l_e+l_e
 	for oku in chars:
 		harf1=oku
@@ -204,7 +204,7 @@ def hane8():
 										hane9()
 def hane9():
 	
-	l_e = chars[-1] #son elemanı alır
+	l_e = chars[-1]
 	g_e = l_e+l_e+l_e+l_e+l_e+l_e+l_e+l_e+l_e
 	for oku in chars:
 		harf1=oku
@@ -232,7 +232,7 @@ def hane9():
 											hane10()
 def hane10():
 	
-	l_e = chars[-1] #son elemanı alır
+	l_e = chars[-1] 
 	g_e = l_e+l_e+l_e+l_e+l_e+l_e+l_e+l_e+l_e+l_e
 	for oku in chars:
 		harf1=oku
@@ -262,7 +262,7 @@ def hane10():
 												hane11()
 def hane11():
 	
-	l_e = chars[-1] #son elemanı alır
+	l_e = chars[-1] 
 	g_e = l_e+l_e+l_e+l_e+l_e+l_e+l_e+l_e+l_e+l_e+l_e
 	for oku in chars:
 		harf1=oku
